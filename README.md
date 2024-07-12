@@ -40,3 +40,9 @@ To run the face detection and tracking:
 ```bash
 python run.py --model_path path/to/your/model.tflite --camera_url camera_index/camera_url
 ```
+
+## Refrences
+
+- https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+
+- Deepsort
