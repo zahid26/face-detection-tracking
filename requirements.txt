@@ -1,0 +1,5 @@
+TensorFlow
+loguru
+deep-sort-realtime
+opencv-python
+numpy
