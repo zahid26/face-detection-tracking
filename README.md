@@ -11,9 +11,8 @@ This project implements real-time face detection and tracking using TensorFlow L
 
 ## Requirements
 
-- Python 3.6+
 - TensorFlow
-- OpenCV
+- opencv-python
 - numpy
 - loguru
 - deep-sort-realtime
